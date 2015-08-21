@@ -1,0 +1,65 @@
+
+.header {
+    text-align: center;
+    padding: 10px;
+    background-color: beige;
+    margin-bottom: 30px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans Condensed", "Impact", cursive;
+}
+li {
+    display: inline;
+    font-weight: bold;
+}
+h1 {
+    color: saddlebrown;
+    font-family: "Open Sans Condensed", "Impact",cursive;
+    font-size: 3em;
+}
+p, a {
+    color: saddlebrown; 
+}
+a {
+    text-decoration: none;
+    padding-right: 30px;
+}
+h2, h3, h4, h5 {
+    color: saddlebrown;
+    font-family: "Open Sans Condensed", "Impact",cursive;
+}
+#palm {
+    border-style: double;
+    padding: 20px;
+    opacity: 0.8;
+    width: 300px;
+    height: 375px;
+    float: left;
+    background-color: beige;
+} 
+.riddle {
+    border-style: double;
+    padding: 20px;
+    opacity: 0.8;
+    width: 300px;
+    height: 375px;
+    text-align: center;
+    float: right;
+    background-color: beige;
+}
+#hidden {
+    color: white;
+}
+#hidden:hover {
+    color: saddlebrown;
+    transition: all 0.5s ease-in;
+}
+#question {
+    width: 300px;
+    height: 500px;
+    margin-left: 60px;
+}
+    

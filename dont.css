@@ -1,0 +1,53 @@
+
+.header {
+    text-align: center;
+    padding: 10px;
+    background-color: beige;
+    margin-bottom: 30px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans Condensed", "Impact", cursive;
+}
+li {
+    display: inline;
+    font-weight: bold;
+}
+h1 {
+    color: saddlebrown;
+    font-family: "Open Sans Condensed", "Impact",cursive;
+    font-size: 3em;
+}
+p, a, h2 {
+    color: saddlebrown;
+    font-family: "Open Sans Condensed", "Impact",cursive; 
+}
+a {
+    text-decoration: none;
+    padding-right: 30px;
+}
+img {
+    width: 30%;
+    clear: left;
+    margin-right: 0px;
+}
+#duck {
+    height: 350px;
+}
+#gurl {
+    height: 235px;
+}
+#bow {
+    height: 330px;
+}
+img {
+    vertical-align: top;
+    margin: center;
+    height: 280px;
+    width: 28%;
+}
+.pics img {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,30 @@
+        h1, h2, h3 {
+            color: floralwhite;
+            text-align: center;
+            font-family: monospace;
+        }
+        p {
+            font-size: 16px;
+        }
+        body {
+            background-image: url("gray ombre background.jpg")
+        }
+        img {
+            height: 300px;
+            padding: 50px;
+        }
+        img:hover {
+            height: 500px;
+            padding: 50px;
+        }
+        .links {
+            text-align: center;
+        }
+        a:link {
+            padding-right: 20px;
+            text-decoration: none;
+            color: azure;
+        }
+        a:visited {
+            color: white;
+        }
